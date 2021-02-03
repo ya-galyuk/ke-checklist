@@ -1,5 +1,4 @@
-# ke-checklist
-Checklist for xlsx file department's schedule
+![thumbnail](img/thumbnail.png) 
        
 - [ua](#ua)    
 - [ru](#ru)   
