@@ -1,7 +1,6 @@
 # ke-checklist
 Checklist for xlsx file department's schedule
-  
-## Language:     
+       
 - [ua](#ua)    
 - [ru](#ru)   
     
