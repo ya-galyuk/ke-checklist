@@ -1,6 +1,6 @@
 ![thumbnail](img/thumbnail.png) 
   
- ## Language:     
+## Language:     
 - [ua](#ua)    
 - [ru](#ru)   
     
